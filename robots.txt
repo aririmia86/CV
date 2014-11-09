@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /images/
+Disallow: /recursos/Momentos.zip
+Disallow: /recursos/expedienteAcademico.pdf
+Disallow: /recursos/memoriaPFC.pdf
+Disallow: /recursos/memoriaPID.pdf
+Disallow: /recursos/notaMedia.pdf
+Disallow: /recursos/certificadoSadiel.pdf
+
+Sitemap: http://alejandroirimia.es/sitemap.xml

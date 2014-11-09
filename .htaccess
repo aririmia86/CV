@@ -1,0 +1,6 @@
+ErrorDocument 404: "/error.php"
+
+RewriteEngine on
+Options +FollowSymLinks
+RewriteCond %{HTTP_HOST} ^www\.alejandroirimia\.es$ [NC]
+RewriteRule ^(.*)$ http://alejandroirimia.es/$1 [R=301,L]
